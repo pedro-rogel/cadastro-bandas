@@ -12,11 +12,6 @@ void ExibirMenssagem(string msg)
         i++;
     }
 
-    // string astericos = new string('*', msg.Length);
-    // Console.WriteLine(astericos);
-    // Console.WriteLine(msg);
-    // Console.WriteLine(astericos);
-
     Console.WriteLine(string.Join("", listaCarcter));
     Console.WriteLine(msg);
     Console.WriteLine(string.Join("", listaCarcter));
