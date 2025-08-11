@@ -1,0 +1,14 @@
+C:\Users\PedroHenriqueRogelSa\estudo\alura\praticando_c#\bin\Debug\net9.0\praticando_c#.exe
+C:\Users\PedroHenriqueRogelSa\estudo\alura\praticando_c#\bin\Debug\net9.0\praticando_c#.deps.json
+C:\Users\PedroHenriqueRogelSa\estudo\alura\praticando_c#\bin\Debug\net9.0\praticando_c#.runtimeconfig.json
+C:\Users\PedroHenriqueRogelSa\estudo\alura\praticando_c#\bin\Debug\net9.0\praticando_c#.dll
+C:\Users\PedroHenriqueRogelSa\estudo\alura\praticando_c#\bin\Debug\net9.0\praticando_c#.pdb
+C:\Users\PedroHenriqueRogelSa\estudo\alura\praticando_c#\obj\Debug\net9.0\praticando_c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PedroHenriqueRogelSa\estudo\alura\praticando_c#\obj\Debug\net9.0\praticando_c#.AssemblyInfoInputs.cache
+C:\Users\PedroHenriqueRogelSa\estudo\alura\praticando_c#\obj\Debug\net9.0\praticando_c#.AssemblyInfo.cs
+C:\Users\PedroHenriqueRogelSa\estudo\alura\praticando_c#\obj\Debug\net9.0\praticando_c#.csproj.CoreCompileInputs.cache
+C:\Users\PedroHenriqueRogelSa\estudo\alura\praticando_c#\obj\Debug\net9.0\praticando_c#.dll
+C:\Users\PedroHenriqueRogelSa\estudo\alura\praticando_c#\obj\Debug\net9.0\refint\praticando_c#.dll
+C:\Users\PedroHenriqueRogelSa\estudo\alura\praticando_c#\obj\Debug\net9.0\praticando_c#.pdb
+C:\Users\PedroHenriqueRogelSa\estudo\alura\praticando_c#\obj\Debug\net9.0\praticando_c#.genruntimeconfig.cache
+C:\Users\PedroHenriqueRogelSa\estudo\alura\praticando_c#\obj\Debug\net9.0\ref\praticando_c#.dll
