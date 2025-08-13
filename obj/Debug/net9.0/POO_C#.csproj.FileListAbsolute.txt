@@ -1,0 +1,14 @@
+C:\Users\PedroHenriqueRogelSa\estudo\alura\POO_C#\bin\Debug\net9.0\POO_C#.exe
+C:\Users\PedroHenriqueRogelSa\estudo\alura\POO_C#\bin\Debug\net9.0\POO_C#.deps.json
+C:\Users\PedroHenriqueRogelSa\estudo\alura\POO_C#\bin\Debug\net9.0\POO_C#.runtimeconfig.json
+C:\Users\PedroHenriqueRogelSa\estudo\alura\POO_C#\bin\Debug\net9.0\POO_C#.dll
+C:\Users\PedroHenriqueRogelSa\estudo\alura\POO_C#\bin\Debug\net9.0\POO_C#.pdb
+C:\Users\PedroHenriqueRogelSa\estudo\alura\POO_C#\obj\Debug\net9.0\POO_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PedroHenriqueRogelSa\estudo\alura\POO_C#\obj\Debug\net9.0\POO_C#.AssemblyInfoInputs.cache
+C:\Users\PedroHenriqueRogelSa\estudo\alura\POO_C#\obj\Debug\net9.0\POO_C#.AssemblyInfo.cs
+C:\Users\PedroHenriqueRogelSa\estudo\alura\POO_C#\obj\Debug\net9.0\POO_C#.csproj.CoreCompileInputs.cache
+C:\Users\PedroHenriqueRogelSa\estudo\alura\POO_C#\obj\Debug\net9.0\POO_C#.dll
+C:\Users\PedroHenriqueRogelSa\estudo\alura\POO_C#\obj\Debug\net9.0\refint\POO_C#.dll
+C:\Users\PedroHenriqueRogelSa\estudo\alura\POO_C#\obj\Debug\net9.0\POO_C#.pdb
+C:\Users\PedroHenriqueRogelSa\estudo\alura\POO_C#\obj\Debug\net9.0\POO_C#.genruntimeconfig.cache
+C:\Users\PedroHenriqueRogelSa\estudo\alura\POO_C#\obj\Debug\net9.0\ref\POO_C#.dll
